@@ -1,0 +1,36 @@
+operators in python
+arithmetic: + - / * ** % //
+comparison: == != > < >= <=
+assignment: = += -= *= /= %= **= //=
+logical: and or not
+membership: in, not in
+identity: is, is not
+
+
+lists and tuples 
+
+match case other or _
+
+loops
+for loop: normal loop and for-each loop  #usualyy used t count numerically conventional variable(i,j,k,m,n)
+while loop 
+
+range() - is a generator #step: specifies how much we wanna skip i.e 2=1 3=2...
+
+software testing:
+admin: approves  the seller and product
+seller: resgister an account and uploads product
+buyer: creates an account, picks products, creates an account, and checks out!
+
+
+process:
+write sop: document of dev(step by step features to be followed to create an account )
+
+register, login, test out all the features of the web.
+
+arbitrary arguments (*args) tuple
+arbitrary keyword arguments  dictionary
+
+lambda is  a shirt way to write a function in python
+generator functions: (yield)
+
